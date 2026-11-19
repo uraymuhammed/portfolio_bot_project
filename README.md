@@ -1,4 +1,4 @@
-# portfoy_bot_project
+# portfolio_bot_project
 Portföy Bot Projesi
 Bu proje, kullanıcıların Discord üzerinden kendi projelerini ekleyebilmelerini, projelerini görüntüleyebilmelerini, projelerine beceriler ekleyebilmelerini, proje bilgilerini güncelleyebilmelerini ve projelerini silebilmelerini sağlayan bir Discord botudur. Proje Python programlama dili kullanılarak geliştirilmiştir. Verilerin saklanması ve yönetilmesi için SQLite veritabanı kullanılmıştır. Projenin temel amacı, kullanıcıların portföylerini düzenli bir şekilde yönetmelerini kolaylaştırmaktır.
 
